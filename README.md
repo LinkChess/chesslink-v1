@@ -9,4 +9,4 @@ This is the full open-source code which we used for the demo of our interactive 
 
 Video of demo: 
 
-[Watch the video](https://github.com/LinkChess/chesslink-v1/blob/0c13e3eddf06e5a12f872a344257334d83ee63e8/docs/demo.mp4)
+https://github.com/LinkChess/chesslink-v1/blob/0c13e3eddf06e5a12f872a344257334d83ee63e8/docs/demo.mp4
