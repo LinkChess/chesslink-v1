@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "board4": "cpp",
+        "board3": "cpp",
+        "board1": "cpp",
+        "board2": "cpp"
+    }
+}
