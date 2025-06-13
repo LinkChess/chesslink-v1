@@ -2,6 +2,10 @@
 
 ChessLink is an interactive chess project that bridges physical chess play with digital capabilities through embedded sensors and LED feedback. This repository contains the full open-source code used for the demonstration prototype.
 
+For more inforamtion, view the following links
+- YouTube page with video of our project in action: [youtube.com/@ChessLink](https://www.youtube.com/@ChessLink)
+- Website with additional documentation: [linkchess.org](https://linkchess.org/)
+
 ## Project Overview
 
 ChessLink integrates hardware sensors with a software application to:
